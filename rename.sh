@@ -1,0 +1,10 @@
+mv basic-lesson-1-Getting-Started                      basics-lesson-1-Getting-Started
+mv basic-lesson-2-Navigate-Between-Pages               basics-lesson-2-Navigate-Between-Pages
+mv basic-lesson-3-Using-Shared-Components              basics-lesson-3-Using-Shared-Components
+mv basic-lesson-4-Create-Dynamic-Pages                 basics-lesson-4-Create-Dynamic-Pages
+mv basic-lesson-5-Clean-URLs-with-Route-Masking        basics-lesson-5-Clean-URLs-with-Route-Masking
+mv basic-lesson-6-Server-Side-Support-for-Clean-URLs   basics-lesson-6-Server-Side-Support-for-Clean-URLs
+mv basic-lesson-7-Fetching-Data-for-Pages              basics-lesson-7-Fetching-Data-for-Pages
+mv basic-lesson-8-Styling-Components                   basics-lesson-8-Styling-Components
+mv basic-lesson-9-Deploying-a-NextJS-App               basics-lesson-9-Deploying-a-NextJS-App
+mv basic-lesson-9B-Deploying-a-NextJS-App              basics-lesson-9B-Deploying-a-NextJS-App
