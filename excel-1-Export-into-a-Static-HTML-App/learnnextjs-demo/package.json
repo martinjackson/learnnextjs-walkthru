@@ -15,9 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2",
-    "next": "beta",
+    "next": "8.0.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "serve": "^6.0.2"
+    "serve": "^7.0.0"
   }
 }
