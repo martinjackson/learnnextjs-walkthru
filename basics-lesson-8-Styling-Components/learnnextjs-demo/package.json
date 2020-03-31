@@ -5,7 +5,9 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node server.js"
+    "dev": "node server.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "keywords": [],
   "author": "",
@@ -15,6 +17,8 @@
     "next": "^9.3.2",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "react-markdown": "^2.5.0"
-  }
+    "react-markdown": "^2.5.0",
+    "snyk": "^1.305.0"
+  },
+  "snyk": true
 }
