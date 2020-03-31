@@ -13,11 +13,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2",
-    "isomorphic-unfetch": "^2.0.0",
-    "next": "^9.3.2",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "express": "^4.17.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.3.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "snyk": "^1.305.0"
   },
   "snyk": true
